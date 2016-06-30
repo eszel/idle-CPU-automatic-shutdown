@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.002,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.169,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\Unit2.dfm=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\Unit2.dfm=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\uMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.102,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.430,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\CPUAutoShutdowner.dproj=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.908,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\IdleCPUAutomaticShutdown.dproj=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\CPUAutoShutdowner.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\uTotalCpuUsagePct.pas=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.855,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.966,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\Unit2.pas=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\Unit2.pas=C:\Documents and Settings\XP4ever\Dokumentumok\RAD Studio\Projects\CPUAutoShutdowner\uMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
